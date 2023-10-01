@@ -2,11 +2,10 @@ button {
     background-color: rgb(102, 180, 92);
     border: ridge;
     color: white;
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    border-radius: 12px;
-    border: 2px solid rgb(107, 60, 60);
+    font-size: 20px;
+    border-radius: 10px;
   }
